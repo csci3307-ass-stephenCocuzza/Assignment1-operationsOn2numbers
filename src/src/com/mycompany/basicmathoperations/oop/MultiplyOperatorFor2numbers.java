@@ -8,7 +8,7 @@ package src.com.mycompany.basicmathoperations.oop;
  *
  */
 public class MultiplyOperatorFor2numbers extends OperatorFor2numbers implements Multiply {
-// NOTE ilker the above line is equivalent to below one
+
 //public class MultiplyOperatorFor2numbers extends OperatorFor2numbers implements Multiply, Has2numbers {
 
 	
