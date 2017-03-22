@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * @author ilker
+ * @author stephen
  *
  */
 public class MainEntry4simple {

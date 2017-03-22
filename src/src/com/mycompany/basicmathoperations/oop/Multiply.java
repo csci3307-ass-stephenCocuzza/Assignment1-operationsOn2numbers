@@ -4,7 +4,7 @@
 package src.com.mycompany.basicmathoperations.oop;
 
 /**
- * @author ilker
+ * @author stephen
  *
  */
 public interface Multiply {

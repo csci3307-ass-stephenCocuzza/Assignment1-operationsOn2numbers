@@ -4,7 +4,7 @@
 package src.com.mycompany.basicmathoperations.oop;
 
 /**
- * @author ilker
+ * @author stephen
  *
  */
 public class MultiplyOperatorFor2numbers extends OperatorFor2numbers implements Multiply {

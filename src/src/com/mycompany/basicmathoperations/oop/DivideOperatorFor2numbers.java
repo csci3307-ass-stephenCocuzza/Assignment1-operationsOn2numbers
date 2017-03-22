@@ -4,13 +4,13 @@
 package src.com.mycompany.basicmathoperations.oop;
 
 /**
- * @author ilker
+ * @author stephen
  *
  */
 public class DivideOperatorFor2numbers extends OperatorFor2numbers implements Divide {
 
 	public DivideOperatorFor2numbers() {
-//		super();	// NOTE ilker if you don't call parent's constructor in a child class' constructor, java will automagically call default constructor of parent
+//		
 	}
 	
 	public DivideOperatorFor2numbers(float _number1, float number2) {
