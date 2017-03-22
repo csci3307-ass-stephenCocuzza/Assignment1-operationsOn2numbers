@@ -4,7 +4,7 @@
 package src.com.mycompany.basicmathoperations.oop;
 
 /**
- * @author stephen
+ * @author stephen cocuzza
  *
  */
 public class DivideOperatorFor2numbers extends OperatorFor2numbers implements Divide {

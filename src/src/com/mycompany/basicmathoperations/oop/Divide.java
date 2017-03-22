@@ -4,7 +4,7 @@
 package src.com.mycompany.basicmathoperations.oop;
 
 /**
- * @author stephen
+ * @author stephen cocuzza
  *
  */
 public interface Divide {

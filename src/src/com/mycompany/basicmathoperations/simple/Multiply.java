@@ -4,7 +4,7 @@
 package src.com.mycompany.basicmathoperations.simple;
 
 /**
- * @author stephen
+ * @author stephen cocuzza
  *
  */
 public class Multiply {

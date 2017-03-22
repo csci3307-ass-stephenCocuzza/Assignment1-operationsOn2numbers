@@ -7,7 +7,7 @@ import java.util.Scanner;
 import src.com.mycompany.basicmathoperations.oop.Multiply;
 
 /**
- * @author stephen
+ * @author stephen cocuzza
  *
  */
 public class MainEntry4oop {
