@@ -41,6 +41,18 @@ public class MainEntry4simple {
 		// print out result - NOTE %d is for int, %f is for float(and double), %.2f means 2 digits after decimal like 123.45
 		System.out.printf("divide result is %.2f%n", result);
 		
+		//Add Block
+		Add adder = new Add();
+		result = adder.add(number1, number2);
+		// print out result - NOTE %d is for int, %f is for float(and double), %.2f means 2 digits after decimal like 123.45
+		System.out.printf("Add result is %.2f%n", result);
+		
+		//Add Subtract
+		Subtract subtracter = new Subtract();
+		result = subtracter.subtract(number1, number2);
+		// print out result - NOTE %d is for int, %f is for float(and double), %.2f means 2 digits after decimal like 123.45
+		System.out.printf("Add result is %.2f%n", result);
+		
 		scanner.close();
 	}
 
